@@ -1,0 +1,38 @@
+{
+    "TEAM_MEMBERS": [
+        {
+            "TITLE": "FOUNDERS",
+            "PRIORITY": 1,
+            "MEMBERS": [
+                {
+                    "NAME": "Muckee",
+                    "DESCRIPTION": "He does some stuff"
+                }
+            ]
+        },
+        {
+            "TITLE": "ARTISTS",
+            "PRIORITY": 2,
+            "MEMBERS": [
+                {
+                    "NAME": "Muckee",
+                    "DESCRIPTION": "He does more things"
+                }
+            ]
+        },
+        {
+            "TITLE": "DEVELOPERS",
+            "PRIORITY": 3,
+            "MEMBERS": [
+                {
+                    "NAME": "Muckee",
+                    "DESCRIPTION": "He builds things"
+                },
+                {
+                    "NAME": "Another Muckee",
+                    "DESCRIPTION": "He builds other things"
+                }
+            ]
+        }
+    ]
+}

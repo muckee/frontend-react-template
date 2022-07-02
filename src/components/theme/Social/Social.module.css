@@ -1,0 +1,21 @@
+/* Stylesheet */
+
+.socialList {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+
+.socialIcon {
+  display: inline-block;
+  margin: 0 0.3em;
+  font-size: 2em;
+}
+
+@media only screen and (min-width: 900px) {
+
+  .socialList {
+    align-self: flex-end;
+  }
+}
